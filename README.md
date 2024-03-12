@@ -1,11 +1,14 @@
 # UnsupervisedML2
-Project Name - Netflix Movies and TV Shows Clustering
+
+# Project Name - Netflix Movies and TV Shows Clustering
+
 Contribution - Individual
-Name - Kiran
+
+# Name - Kiran
 
 
-Problem Statement
-Write Problem Statement Here.
+# Problem Statement
+
 
 The objective of this undertaking is to examine the collection of movies and TV shows on Netflix, sourced from the third-party search engine Flixable, and categorize them into meaningful clusters. This effort aims to improve user satisfaction and reduce subscriber attrition for Netflix, the leading online streaming service provider globally, with a subscriber base exceeding 220 million as of the second quarter of 2022. By delving into the dataset, encompassing content available up to 2019, we intend to reveal fresh perspectives and patterns in the swiftly expanding domain of streaming entertainment.
 
@@ -13,7 +16,8 @@ The dataset encompasses TV shows and movies accessible on Netflix up until 2019,
 
 Furthermore, the potential for enriching this dataset by integrating it with external data sources like IMDB ratings
 
-Project Summary -
+# Project Summary -
+
 The objective of the Netflix Movies and TV Shows Clustering project is to categorize similar content available on Netflix into distinct clusters based on their attributes. The project starts with data sourced from a third-party Netflix search engine, encompassing details about over 7,000 movies and TV shows offered on the platform.
 
 This dataset comprises information about movies and TV shows on Netflix. The analysis involves computing descriptive statistics for each variable and utilizing visualizations like scatterplots, distplots, count plots, bar plots, pair plots, heatmaps, pie plots, and box plots to explore relationships between variables.
